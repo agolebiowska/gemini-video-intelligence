@@ -44,7 +44,7 @@
             "height": 43.14679643146765,
             "rotation": 0,
             "frame": 4,
-            "enabled": true,
+            "enabled": false,
             "time": 4
           },
           {
@@ -264,20 +264,20 @@
             "time": 3
           },
           {
-            "x": 50.425790754257896,
-            "y": 56.16382806163824,
-            "width": 4.257907542579057,
-            "height": 10.705596107055984,
+            "x": 50.425790754257946,
+            "y": 56.163828061638135,
+            "width": 4.6362177569547915,
+            "height": 12.050699091503327,
             "rotation": 0,
             "frame": 5,
             "enabled": true,
             "time": 5
           },
           {
-            "x": 50.669099756691004,
-            "y": 54.21735604217335,
-            "width": 4.501216545012114,
-            "height": 10.70559610705598,
+            "x": 50.66909975669102,
+            "y": 54.21735604217325,
+            "width": 5.383940378555609,
+            "height": 10.705596107055976,
             "rotation": 0,
             "frame": 6,
             "enabled": true,
@@ -304,10 +304,10 @@
             "time": 8
           },
           {
-            "x": 52.49391727493917,
-            "y": 47.4047039740466,
-            "width": 6.082725060827175,
-            "height": 11.678832116788033,
+            "x": 52.493917274939164,
+            "y": 47.404703974046484,
+            "width": 7.595965918330314,
+            "height": 13.023935101235343,
             "rotation": 0,
             "frame": 9,
             "enabled": true,
@@ -399,18 +399,8 @@
             "height": 8.110300081103139,
             "rotation": 0,
             "frame": 8,
-            "enabled": true,
-            "time": 8
-          },
-          {
-            "x": 58.21167883211672,
-            "y": 51.29764801297595,
-            "width": 3.8929440389294565,
-            "height": 8.110300081103142,
-            "rotation": 0,
-            "frame": 9,
             "enabled": false,
-            "time": 9
+            "time": 8
           }
         ],
         "labels": [
@@ -482,10 +472,10 @@
             "time": 6
           },
           {
-            "x": 59.91484184914824,
-            "y": 47.72911597729059,
-            "width": 20.07299270072998,
-            "height": 39.90267639902639,
+            "x": 59.15822142039663,
+            "y": 47.7291159772904,
+            "width": 20.829613129481483,
+            "height": 39.56640065291453,
             "rotation": 0,
             "frame": 7,
             "enabled": true,
@@ -855,10 +845,10 @@
             "time": 4
           },
           {
-            "x": 71.10705596107046,
-            "y": 59.40794809407948,
-            "width": 6.569343065693506,
-            "height": 18.49148418491487,
+            "x": 71.10705596107042,
+            "y": 59.40794809407919,
+            "width": 8.208687327988628,
+            "height": 18.49148418491484,
             "rotation": 0,
             "frame": 5,
             "enabled": false,
@@ -874,20 +864,10 @@
         "duration": 10,
         "sequence": [
           {
-            "frame": 5,
-            "enabled": true,
-            "rotation": 0,
-            "x": 31.569343065693428,
-            "y": 62.32765612327656,
-            "width": 3.5279805352798066,
-            "height": 16.220600162206,
-            "time": 5
-          },
-          {
             "x": 27.91970802919702,
-            "y": 52.5952960259526,
-            "width": 9.367396593674023,
-            "height": 20.11354420113581,
+            "y": 52.59529602595254,
+            "width": 10.124017022425601,
+            "height": 20.11354420113579,
             "rotation": 0,
             "frame": 6,
             "enabled": false,
@@ -895,7 +875,7 @@
           }
         ],
         "labels": [
-          "human"
+          "car"
         ]
       },
       {
@@ -906,10 +886,10 @@
             "frame": 5,
             "enabled": true,
             "rotation": 0,
-            "x": 32.17761557177615,
-            "y": 55.515004055150044,
-            "width": 5.352798053527978,
-            "height": 18.815896188158966,
+            "x": 31.79930535740032,
+            "y": 60.55914024682721,
+            "width": 3.3351435768571442,
+            "height": 19.48844768038227,
             "time": 5
           },
           {
@@ -950,18 +930,7 @@
       {
         "framesCount": 10,
         "duration": 10,
-        "sequence": [
-          {
-            "frame": 5,
-            "enabled": false,
-            "rotation": 0,
-            "x": 36.43552311435523,
-            "y": 54.54176804541768,
-            "width": 4.5012165450121655,
-            "height": 14.598540145985398,
-            "time": 5
-          }
-        ],
+        "sequence": [],
         "labels": [
           "traffic sign"
         ]
@@ -1177,9 +1146,9 @@
             "time": 9
           },
           {
-            "x": 2.7372262773722476,
-            "y": 12.368207623681617,
-            "width": 4.6228710462287195,
+            "x": 3.367743301331895,
+            "y": 13.713310608128863,
+            "width": 4.62287104622872,
             "height": 21.7356042173564,
             "rotation": 0,
             "frame": 10,
@@ -1371,13 +1340,13 @@
             "time": 9
           },
           {
-            "x": 83.75912408759116,
-            "y": 59.40794809407933,
-            "width": 4.379562043795699,
-            "height": 24.33090024330919,
+            "x": 84.78728104490936,
+            "y": 58.71944191317174,
+            "width": 3.649635036496353,
+            "height": 17.19383617193836,
             "rotation": 0,
             "frame": 10,
-            "enabled": true,
+            "enabled": false,
             "time": 10
           }
         ],
@@ -1393,10 +1362,10 @@
             "frame": 9,
             "enabled": true,
             "rotation": 0,
-            "x": 34.367396593673966,
-            "y": 42.86293592862936,
-            "width": 3.40632603406326,
-            "height": 16.220600162206004,
+            "x": 34.36739659367398,
+            "y": 42.862935928629234,
+            "width": 5.676187320317977,
+            "height": 16.220600162205994,
             "time": 9
           },
           {
@@ -1418,16 +1387,6 @@
         "framesCount": 10,
         "duration": 10,
         "sequence": [
-          {
-            "frame": 9,
-            "enabled": true,
-            "rotation": 0,
-            "x": 49.69586374695864,
-            "y": 47.40470397404701,
-            "width": 3.892944038929444,
-            "height": 10.38118410381184,
-            "time": 9
-          },
           {
             "x": 50.669099756691004,
             "y": 62.97648012976473,
@@ -1461,13 +1420,357 @@
         "labels": [
           "human"
         ]
+      },
+      {
+        "framesCount": 10,
+        "duration": 10,
+        "sequence": [
+          {
+            "frame": 1,
+            "enabled": true,
+            "rotation": 0,
+            "x": 34.363177805800724,
+            "y": 15.699873896595179,
+            "width": 5.800756620428742,
+            "height": 13.451029844472478,
+            "time": 1
+          },
+          {
+            "x": 28.688524590163876,
+            "y": 0.20833333333332968,
+            "width": 7.06179066834806,
+            "height": 13.787305590584383,
+            "rotation": 0,
+            "frame": 2,
+            "enabled": false,
+            "time": 2
+          }
+        ],
+        "labels": [
+          "traffic sign"
+        ]
+      },
+      {
+        "framesCount": 10,
+        "duration": 10,
+        "sequence": [
+          {
+            "frame": 4,
+            "enabled": false,
+            "rotation": 0,
+            "x": 59.20554854981079,
+            "y": 36.88524590163923,
+            "width": 2.9003783102143728,
+            "height": 11.097099621689894,
+            "time": 4
+          }
+        ],
+        "labels": [
+          "traffic sign"
+        ]
+      },
+      {
+        "framesCount": 10,
+        "duration": 10,
+        "sequence": [
+          {
+            "frame": 4,
+            "enabled": false,
+            "rotation": 0,
+            "x": 59.83606557377049,
+            "y": 48.991172761664565,
+            "width": 1.3871374527112224,
+            "height": 3.699033207229932,
+            "time": 4
+          }
+        ],
+        "labels": [
+          "car"
+        ]
+      },
+      {
+        "framesCount": 10,
+        "duration": 10,
+        "sequence": [
+          {
+            "frame": 4,
+            "enabled": true,
+            "rotation": 0,
+            "x": 39.02900378310215,
+            "y": 56.72551492223623,
+            "width": 3.2786885245901662,
+            "height": 9.415720891130734,
+            "time": 4
+          },
+          {
+            "x": 31.715006305170146,
+            "y": 53.36275746111784,
+            "width": 5.5485498108449685,
+            "height": 20.176544766708965,
+            "rotation": 0,
+            "frame": 5,
+            "enabled": false,
+            "time": 5
+          }
+        ],
+        "labels": [
+          "car"
+        ]
+      },
+      {
+        "framesCount": 10,
+        "duration": 10,
+        "sequence": [
+          {
+            "frame": 5,
+            "enabled": false,
+            "rotation": 0,
+            "x": 35.624211853720055,
+            "y": 55.38041193778898,
+            "width": 5.296343001261032,
+            "height": 13.11475409836066,
+            "time": 5
+          }
+        ],
+        "labels": [
+          "car"
+        ]
+      },
+      {
+        "framesCount": 10,
+        "duration": 10,
+        "sequence": [
+          {
+            "frame": 5,
+            "enabled": false,
+            "rotation": 0,
+            "x": 93.37957124842372,
+            "y": 66.8137873055906,
+            "width": 5.42244640605297,
+            "height": 21.185372005044144,
+            "time": 5
+          }
+        ],
+        "labels": [
+          "car"
+        ]
+      },
+      {
+        "framesCount": 10,
+        "duration": 10,
+        "sequence": [
+          {
+            "frame": 7,
+            "enabled": true,
+            "rotation": 0,
+            "x": 37.64186633039092,
+            "y": 51.00882723833544,
+            "width": 4.035308953341743,
+            "height": 8.406893652795294,
+            "time": 7
+          },
+          {
+            "x": 36.885245901639344,
+            "y": 49.663724253888184,
+            "width": 4.918032786885249,
+            "height": 9.415720891130706,
+            "rotation": 0,
+            "frame": 8,
+            "enabled": false,
+            "time": 8
+          }
+        ],
+        "labels": [
+          "car"
+        ]
+      },
+      {
+        "framesCount": 10,
+        "duration": 10,
+        "sequence": [
+          {
+            "frame": 7,
+            "enabled": true,
+            "rotation": 0,
+            "x": 49.74779319041615,
+            "y": 52.01765447667087,
+            "width": 2.143757881462802,
+            "height": 6.725514922236228,
+            "time": 7
+          },
+          {
+            "x": 49.74779319041603,
+            "y": 47.98234552332911,
+            "width": 2.1437578814627924,
+            "height": 10.760823875577902,
+            "rotation": 0,
+            "frame": 8,
+            "enabled": false,
+            "time": 8
+          }
+        ],
+        "labels": [
+          "car"
+        ]
+      },
+      {
+        "framesCount": 10,
+        "duration": 10,
+        "sequence": [
+          {
+            "frame": 9,
+            "enabled": false,
+            "rotation": 0,
+            "x": 50.88272383354351,
+            "y": 48.99117276166457,
+            "width": 3.1525851197982306,
+            "height": 8.406893652795299,
+            "time": 9
+          }
+        ],
+        "labels": [
+          "car"
+        ]
+      },
+      {
+        "framesCount": 10,
+        "duration": 10,
+        "sequence": [
+          {
+            "frame": 9,
+            "enabled": false,
+            "rotation": 0,
+            "x": 84.80453972257251,
+            "y": 0,
+            "width": 8.070617906683477,
+            "height": 12.673392181588902,
+            "time": 9
+          }
+        ],
+        "labels": [
+          "traffic sign"
+        ]
+      },
+      {
+        "framesCount": 10,
+        "duration": 10,
+        "sequence": [
+          {
+            "frame": 9,
+            "enabled": false,
+            "rotation": 0,
+            "x": 81.90416141235814,
+            "y": 46.637242538881885,
+            "width": 2.7742749054224447,
+            "height": 21.185372005044144,
+            "time": 9
+          }
+        ],
+        "labels": [
+          "human"
+        ]
+      },
+      {
+        "framesCount": 10,
+        "duration": 10,
+        "sequence": [
+          {
+            "frame": 7,
+            "enabled": false,
+            "rotation": 0,
+            "x": 68.53720050441362,
+            "y": 33.52248844052123,
+            "width": 4.918032786885247,
+            "height": 4.035308953341735,
+            "time": 7
+          }
+        ],
+        "labels": [
+          "traffic sign"
+        ]
+      },
+      {
+        "framesCount": 10,
+        "duration": 10,
+        "sequence": [
+          {
+            "frame": 7,
+            "enabled": false,
+            "rotation": 0,
+            "x": 80.5170239596469,
+            "y": 26.796973518284993,
+            "width": 4.918032786885256,
+            "height": 13.787305590584278,
+            "time": 7
+          }
+        ],
+        "labels": [
+          "traffic sign"
+        ]
+      },
+      {
+        "framesCount": 10,
+        "duration": 10,
+        "sequence": [
+          {
+            "frame": 8,
+            "enabled": false,
+            "rotation": 0,
+            "x": 74.96847414880202,
+            "y": 7.292980243799916,
+            "width": 6.935687263556112,
+            "height": 16.47751155947877,
+            "time": 8
+          }
+        ],
+        "labels": [
+          "traffic sign"
+        ]
+      },
+      {
+        "framesCount": 10,
+        "duration": 10,
+        "sequence": [
+          {
+            "frame": 8,
+            "enabled": false,
+            "rotation": 0,
+            "x": 91.99243379571249,
+            "y": 16.03614964270702,
+            "width": 6.809583858764193,
+            "height": 17.82261454392602,
+            "time": 8
+          }
+        ],
+        "labels": [
+          "traffic sign"
+        ]
+      },
+      {
+        "framesCount": 10,
+        "duration": 10,
+        "sequence": [
+          {
+            "frame": 6,
+            "enabled": false,
+            "rotation": 0,
+            "x": 73.07692307692308,
+            "y": 33.52248844052123,
+            "width": 4.035308953341739,
+            "height": 11.76965111391341,
+            "time": 6
+          }
+        ],
+        "labels": [
+          "traffic sign"
+        ]
       }
     ],
     "annotator": 1,
     "annotation_id": 8,
     "created_at": "2025-06-24T06:52:45.338439Z",
-    "updated_at": "2025-06-24T06:52:45.338465Z",
-    "lead_time": 713.489
+    "updated_at": "2025-06-25T12:10:29.481643Z",
+    "lead_time": 1157.861
   },
   {
     "video": "gs://driving-videos-kaggle/preprocessed/00091078-7cff8ea6/00091078-7cff8ea6.mp4",
@@ -1901,6 +2204,16 @@
             "width": 2.541436464088398,
             "height": 13.848987108655617,
             "time": 6
+          },
+          {
+            "x": 5.186194115638909,
+            "y": 35.81473714523255,
+            "width": 3.0458500832561195,
+            "height": 15.194090093102883,
+            "rotation": 0,
+            "frame": 9,
+            "enabled": true,
+            "time": 9
           }
         ],
         "labels": [
@@ -1925,13 +2238,70 @@
         "labels": [
           "car"
         ]
+      },
+      {
+        "framesCount": 10,
+        "duration": 10,
+        "sequence": [
+          {
+            "frame": 1,
+            "enabled": false,
+            "rotation": 0,
+            "x": 50.88272383354351,
+            "y": 26.796973518284993,
+            "width": 2.395964691046659,
+            "height": 12.10592686002522,
+            "time": 1
+          }
+        ],
+        "labels": [
+          "traffic light"
+        ]
+      },
+      {
+        "framesCount": 10,
+        "duration": 10,
+        "sequence": [
+          {
+            "frame": 1,
+            "enabled": true,
+            "rotation": 0,
+            "x": 54.28751576292561,
+            "y": 18.726355611601512,
+            "width": 2.269861286254722,
+            "height": 13.787305590584278,
+            "time": 1
+          }
+        ],
+        "labels": [
+          "traffic light"
+        ]
+      },
+      {
+        "framesCount": 10,
+        "duration": 10,
+        "sequence": [
+          {
+            "frame": 4,
+            "enabled": false,
+            "rotation": 0,
+            "x": 5.10718789407314,
+            "y": 35.5401429171921,
+            "width": 3.5308953341740237,
+            "height": 14.796132828919717,
+            "time": 4
+          }
+        ],
+        "labels": [
+          "traffic light"
+        ]
       }
     ],
     "annotator": 1,
     "annotation_id": 9,
     "created_at": "2025-06-24T06:56:54.884176Z",
-    "updated_at": "2025-06-24T07:24:56.154238Z",
-    "lead_time": 364.27
+    "updated_at": "2025-06-25T12:11:34.397465Z",
+    "lead_time": 426.604
   },
   {
     "video": "gs://driving-videos-kaggle/preprocessed/0000f77c-6257be58/0000f77c-6257be58.mp4",
@@ -1980,6 +2350,16 @@
             "frame": 4,
             "enabled": true,
             "time": 4
+          },
+          {
+            "x": 40.93922651933683,
+            "y": 23.327578268876394,
+            "width": 36.19251321995633,
+            "height": 75.43278084714537,
+            "rotation": 0,
+            "frame": 5,
+            "enabled": true,
+            "time": 5
           },
           {
             "x": 39.39226519337003,
@@ -2111,10 +2491,10 @@
             "time": 7
           },
           {
-            "x": 69.77900552486118,
-            "y": 13.173342541436476,
-            "width": 29.392265193370065,
-            "height": 79.8526703499079,
+            "x": 69.27459190569347,
+            "y": 13.173342541436439,
+            "width": 29.89667881253768,
+            "height": 79.85267034990788,
             "rotation": 0,
             "frame": 8,
             "enabled": true,
@@ -2166,18 +2546,8 @@
             "height": 11.197053406998148,
             "rotation": 0,
             "frame": 2,
-            "enabled": true,
+            "enabled": false,
             "time": 2
-          },
-          {
-            "x": 87.23756906077347,
-            "y": 27.900552486187884,
-            "width": 4.972375690607747,
-            "height": 11.197053406998148,
-            "rotation": 0,
-            "frame": 3,
-            "enabled": true,
-            "time": 3
           },
           {
             "x": 91.32596685082873,
@@ -2592,9 +2962,9 @@
           },
           {
             "x": 26.464088397790032,
-            "y": 44.1068139963168,
-            "width": 11.602209944751399,
-            "height": 21.215469613259692,
+            "y": 44.10681399631679,
+            "width": 11.602209944751396,
+            "height": 23.23312408993054,
             "rotation": 0,
             "frame": 8,
             "enabled": true,
@@ -2756,12 +3126,366 @@
         "labels": [
           "traffic sign"
         ]
+      },
+      {
+        "framesCount": 10,
+        "duration": 10,
+        "sequence": [
+          {
+            "frame": 1,
+            "enabled": false,
+            "rotation": 0,
+            "x": 17.59142496847415,
+            "y": 17.381252627154268,
+            "width": 4.2875157629256,
+            "height": 18.158890290037828,
+            "time": 1
+          }
+        ],
+        "labels": [
+          "traffic sign"
+        ]
+      },
+      {
+        "framesCount": 10,
+        "duration": 10,
+        "sequence": [
+          {
+            "frame": 1,
+            "enabled": false,
+            "rotation": 0,
+            "x": 22.887767969735183,
+            "y": 19.398907103825138,
+            "width": 3.5308953341740246,
+            "height": 17.48633879781421,
+            "time": 1
+          }
+        ],
+        "labels": [
+          "car"
+        ]
+      },
+      {
+        "framesCount": 10,
+        "duration": 10,
+        "sequence": [
+          {
+            "frame": 2,
+            "enabled": false,
+            "rotation": 0,
+            "x": 26.923076923076927,
+            "y": 45.292139554434726,
+            "width": 8.448928121059256,
+            "height": 9.751996637242536,
+            "time": 2
+          }
+        ],
+        "labels": [
+          "car"
+        ]
+      },
+      {
+        "framesCount": 10,
+        "duration": 10,
+        "sequence": [
+          {
+            "frame": 3,
+            "enabled": false,
+            "rotation": 0,
+            "x": 29.192938209331654,
+            "y": 48.31862126944094,
+            "width": 8.448928121059271,
+            "height": 9.079445145018923,
+            "time": 3
+          }
+        ],
+        "labels": [
+          "traffic light"
+        ]
+      },
+      {
+        "framesCount": 10,
+        "duration": 10,
+        "sequence": [
+          {
+            "frame": 5,
+            "enabled": true,
+            "rotation": 0,
+            "x": 87.45271122320301,
+            "y": 28.478352248844057,
+            "width": 2.2698612862547307,
+            "height": 8.406893652795294,
+            "time": 5
+          },
+          {
+            "x": 88.83984867591423,
+            "y": 29.48717948717949,
+            "width": 2.2698612862547307,
+            "height": 8.406893652795294,
+            "rotation": 0,
+            "frame": 6,
+            "enabled": false,
+            "time": 6
+          }
+        ],
+        "labels": [
+          "traffic light"
+        ]
+      },
+      {
+        "framesCount": 10,
+        "duration": 10,
+        "sequence": [
+          {
+            "frame": 5,
+            "enabled": true,
+            "rotation": 0,
+            "x": 85.56116015132412,
+            "y": 29.48717948717948,
+            "width": 2.017654476670874,
+            "height": 7.398066414459785,
+            "time": 5
+          },
+          {
+            "x": 86.82219419924338,
+            "y": 29.823455233291263,
+            "width": 2.0176544766708737,
+            "height": 7.398066414459785,
+            "rotation": 0,
+            "frame": 6,
+            "enabled": false,
+            "time": 6
+          }
+        ],
+        "labels": [
+          "traffic light"
+        ]
+      },
+      {
+        "framesCount": 10,
+        "duration": 10,
+        "sequence": [
+          {
+            "frame": 6,
+            "enabled": false,
+            "rotation": 0,
+            "x": 69.92433795712483,
+            "y": 28.478352248844025,
+            "width": 2.900378310214373,
+            "height": 8.070617906683482,
+            "time": 6
+          }
+        ],
+        "labels": [
+          "traffic sign"
+        ]
+      },
+      {
+        "framesCount": 10,
+        "duration": 10,
+        "sequence": [
+          {
+            "frame": 6,
+            "enabled": true,
+            "rotation": 0,
+            "x": 20.617906683480456,
+            "y": 46.9735182849937,
+            "width": 7.313997477931903,
+            "height": 12.442202606137034,
+            "time": 6
+          },
+          {
+            "x": 14.186633039092062,
+            "y": 43.94703656998739,
+            "width": 13.745271122320299,
+            "height": 15.804960067255013,
+            "rotation": 0,
+            "frame": 7,
+            "enabled": false,
+            "time": 7
+          }
+        ],
+        "labels": [
+          "car"
+        ]
+      },
+      {
+        "framesCount": 10,
+        "duration": 10,
+        "sequence": [
+          {
+            "frame": 7,
+            "enabled": true,
+            "rotation": 0,
+            "x": 15.321563682219422,
+            "y": 20.744010088272386,
+            "width": 4.791929382093317,
+            "height": 12.778478352248845,
+            "time": 7
+          },
+          {
+            "x": 3.2156368221942024,
+            "y": 8.638083228247112,
+            "width": 5.296343001261033,
+            "height": 19.1677175283733,
+            "rotation": 0,
+            "frame": 8,
+            "enabled": false,
+            "time": 8
+          }
+        ],
+        "labels": [
+          "traffic light"
+        ]
+      },
+      {
+        "framesCount": 10,
+        "duration": 10,
+        "sequence": [
+          {
+            "frame": 7,
+            "enabled": false,
+            "rotation": 0,
+            "x": 80.5170239596469,
+            "y": 18.053804119377894,
+            "width": 4.035308953341747,
+            "height": 13.451029844472465,
+            "time": 7
+          }
+        ],
+        "labels": [
+          "traffic light"
+        ]
+      },
+      {
+        "framesCount": 10,
+        "duration": 10,
+        "sequence": [
+          {
+            "frame": 8,
+            "enabled": false,
+            "rotation": 0,
+            "x": 1.3240857503152588,
+            "y": 43.947036569987375,
+            "width": 4.413619167717528,
+            "height": 14.123581336696093,
+            "time": 8
+          }
+        ],
+        "labels": [
+          "car"
+        ]
+      },
+      {
+        "framesCount": 10,
+        "duration": 10,
+        "sequence": [
+          {
+            "frame": 9,
+            "enabled": false,
+            "rotation": 0,
+            "x": 91.23581336696091,
+            "y": 0.9037410676754938,
+            "width": 6.179066834804541,
+            "height": 7.73434216057167,
+            "time": 9
+          }
+        ],
+        "labels": [
+          "traffic sign"
+        ]
+      },
+      {
+        "framesCount": 10,
+        "duration": 10,
+        "sequence": [
+          {
+            "frame": 5,
+            "enabled": true,
+            "rotation": 0,
+            "x": 30.20176544766709,
+            "y": 28.142076502732237,
+            "width": 2.648171500630516,
+            "height": 9.415720891130725,
+            "time": 5
+          },
+          {
+            "x": 24.02269861286254,
+            "y": 26.796973518284943,
+            "width": 2.648171500630516,
+            "height": 9.415720891130725,
+            "rotation": 0,
+            "frame": 6,
+            "enabled": true,
+            "time": 6
+          }
+        ],
+        "labels": [
+          "traffic light"
+        ]
+      },
+      {
+        "framesCount": 10,
+        "duration": 10,
+        "sequence": [
+          {
+            "frame": 5,
+            "enabled": false,
+            "rotation": 0,
+            "x": 5.737704918032787,
+            "y": 6.620428751576293,
+            "width": 4.53972257250946,
+            "height": 23.539302227826823,
+            "time": 5
+          }
+        ],
+        "labels": [
+          "traffic sign"
+        ]
+      },
+      {
+        "framesCount": 10,
+        "duration": 10,
+        "sequence": [
+          {
+            "frame": 6,
+            "enabled": false,
+            "rotation": 0,
+            "x": 0.9457755359394704,
+            "y": 7.292980243799916,
+            "width": 3.9092055485498114,
+            "height": 22.194199243379572,
+            "time": 6
+          }
+        ],
+        "labels": [
+          "traffic sign"
+        ]
+      },
+      {
+        "framesCount": 10,
+        "duration": 10,
+        "sequence": [
+          {
+            "frame": 6,
+            "enabled": false,
+            "rotation": 0,
+            "x": 75.85119798234552,
+            "y": 18.053804119377894,
+            "width": 3.4047919293820965,
+            "height": 20.51282051282052,
+            "time": 6
+          }
+        ],
+        "labels": [
+          "traffic light"
+        ]
       }
     ],
     "annotator": 1,
     "annotation_id": 10,
     "created_at": "2025-06-24T07:30:50.261506Z",
-    "updated_at": "2025-06-24T07:30:50.261530Z",
-    "lead_time": 352.063
+    "updated_at": "2025-06-25T12:16:00.327183Z",
+    "lead_time": 614.663
   }
 ]

@@ -70,12 +70,19 @@ class VideoProcessor:
 
                     try:
                         prompt_config = PROMPTS[self._config.detection_prompt]
-                        response = self._llm_caller.call_llm(
-                            data=img_data,
-                            prompt=prompt_config["prompt"],
-                            response_schema=prompt_config["response_schema"],
-                        )
-                        if response.content:
+                        response = None
+                        for _ in range(3):
+                            response = self._llm_caller.call_llm(
+                                data=img_data,
+                                prompt=prompt_config["prompt"],
+                                response_schema=prompt_config[
+                                    "response_schema"
+                                ],
+                            )
+                            if response and response.content:
+                                break
+
+                        if response and response.content:
                             detections = LLMCaller.parse_response(response)
                             ocv.draw_bounding_boxes(
                                 frame,
@@ -138,15 +145,18 @@ class VideoProcessor:
         output_path = f"{self._config.paths.tmp}/output_with_boxes.mp4"
 
         try:
-            response = self._llm_caller.call_llm(
-                data=video,
-                prompt=prompt_config["prompt"],
-                response_schema=prompt_config["response_schema"],
-                mime_type="video/mp4",
-            )
-
+            response = None
+            for _ in range(3):
+                response = self._llm_caller.call_llm(
+                    data=video,
+                    prompt=prompt_config["prompt"],
+                    response_schema=prompt_config["response_schema"],
+                    mime_type="video/mp4",
+                )
+                if response and response.content:
+                    break
         except Exception as e:
-            print(f"Error processing frame {frame_count + 1}: {e}")
+            print(f"Error processing video chunk: {e}")
             return None, None
 
         if not response or not response.content:

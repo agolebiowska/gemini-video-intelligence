@@ -10,9 +10,9 @@ def load_video_metadata(metadata_file: str) -> dict[str, dict[str, dict]]:
     metadata_df = pd.read_csv(metadata_file)
     video_metadata = {}
     for _, row in metadata_df.iterrows():
-        video_filename = os.path.basename(row['Video'])
+        video_filename = os.path.basename(row['video_path'])
         video_name, _ = os.path.splitext(video_filename)
-        video_metadata[video_name] = {'fps': row['FPS']}
+        video_metadata[video_name] = {'fps': row['fps']}
     return video_metadata
 
 

@@ -38,7 +38,7 @@ class Config:
         with open(config_path, "r") as f:
             cfg = yaml.safe_load(f)
 
-        project_root = Path.cwd().parent
+        project_root = Path(__file__).parent.parent
         resolved_paths = {
             key: project_root / value for key, value in cfg['paths'].items()
         }

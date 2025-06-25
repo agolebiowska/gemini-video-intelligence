@@ -76,12 +76,12 @@ class Pipeline:
             )
             preprocessor.preprocess(
                 source_path=video_path,
-                target_path=self.config.paths.preprocessed,
+                target_path=self.config.preprocessed_path,
                 start_frame=start_frame,
             )
             video_name = os.path.splitext(os.path.basename(video_path))[0]
             self.preprocessed_videos_paths.append(
-                f"{self.config.paths.preprocessed}/{video_name}/{video_name}.mp4"
+                f"{self.config.preprocessed_path}/{video_name}/{video_name}.mp4"
             )
         print("Preprocessing finished.")
 

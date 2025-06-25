@@ -15,10 +15,40 @@
                 },
                 {
                     "box_2d": [
+                        584,
+                        10,
+                        996,
+                        215
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        493,
+                        10,
+                        921,
+                        50
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
                         610,
                         310,
                         808,
                         377
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        522,
+                        305,
+                        730,
+                        399
                     ],
                     "label": "car",
                     "confidence": 1.0
@@ -45,10 +75,170 @@
                 },
                 {
                     "box_2d": [
+                        568,
+                        426,
+                        743,
+                        505
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        538,
+                        426,
+                        743,
+                        505
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        551,
+                        423,
+                        756,
+                        503
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        548,
+                        411,
+                        766,
+                        498
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        551,
+                        393,
+                        795,
+                        495
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        496,
+                        378,
+                        795,
+                        499
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        431,
+                        377,
+                        736,
+                        501
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        590,
+                        378,
+                        895,
+                        510
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
                         587,
                         512,
                         707,
                         550
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        571,
+                        504,
+                        691,
+                        541
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        561,
+                        504,
+                        662,
+                        541
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        561,
+                        504,
+                        682,
+                        550
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        542,
+                        506,
+                        649,
+                        560
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        519,
+                        513,
+                        636,
+                        569
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        499,
+                        513,
+                        616,
+                        574
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        474,
+                        524,
+                        604,
+                        600
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        636,
+                        540,
+                        753,
+                        601
                     ],
                     "label": "car",
                     "confidence": 1.0
@@ -65,10 +255,150 @@
                 },
                 {
                     "box_2d": [
+                        581,
+                        543,
+                        649,
+                        569
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        561,
+                        543,
+                        649,
+                        569
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        561,
+                        543,
+                        626,
+                        569
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        538,
+                        554,
+                        620,
+                        590
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        529,
+                        568,
+                        610,
+                        605
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
                         551,
                         568,
                         788,
                         681
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        522,
+                        568,
+                        772,
+                        681
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        522,
+                        568,
+                        772,
+                        694
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        522,
+                        568,
+                        772,
+                        709
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        522,
+                        568,
+                        821,
+                        720
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        477,
+                        585,
+                        837,
+                        765
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        477,
+                        591,
+                        872,
+                        799
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        457,
+                        594,
+                        856,
+                        820
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        383,
+                        599,
+                        756,
+                        815
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        522,
+                        600,
+                        876,
+                        808
                     ],
                     "label": "car",
                     "confidence": 1.0
@@ -85,10 +415,80 @@
                 },
                 {
                     "box_2d": [
+                        558,
+                        719,
+                        791,
+                        882
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        577,
+                        753,
+                        759,
+                        853
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        623,
+                        827,
+                        804,
+                        932
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        639,
+                        807,
+                        821,
+                        931
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        626,
+                        855,
+                        824,
+                        988
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
                         642,
                         784,
                         808,
                         877
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        639,
+                        874,
+                        804,
+                        967
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        516,
+                        813,
+                        873,
+                        990
                     ],
                     "label": "car",
                     "confidence": 1.0
@@ -112,91 +512,6 @@
                     ],
                     "label": "traffic sign",
                     "confidence": 1.0
-                }
-            ]
-        },
-        {
-            "timestamp": "00:01",
-            "objects": [
-                {
-                    "box_2d": [
-                        584,
-                        10,
-                        996,
-                        215
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        522,
-                        305,
-                        730,
-                        399
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        568,
-                        426,
-                        743,
-                        505
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        571,
-                        504,
-                        691,
-                        541
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        581,
-                        543,
-                        649,
-                        569
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        522,
-                        568,
-                        772,
-                        681
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        558,
-                        719,
-                        791,
-                        882
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        639,
-                        874,
-                        804,
-                        967
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
                 },
                 {
                     "box_2d": [
@@ -217,81 +532,6 @@
                     ],
                     "label": "car",
                     "confidence": 1.0
-                }
-            ]
-        },
-        {
-            "timestamp": "00:02",
-            "objects": [
-                {
-                    "box_2d": [
-                        493,
-                        10,
-                        921,
-                        50
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        538,
-                        426,
-                        743,
-                        505
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        561,
-                        504,
-                        662,
-                        541
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        561,
-                        543,
-                        649,
-                        569
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        522,
-                        568,
-                        772,
-                        694
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        577,
-                        753,
-                        759,
-                        853
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        516,
-                        813,
-                        873,
-                        990
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
                 },
                 {
                     "box_2d": [
@@ -299,51 +539,6 @@
                         697,
                         727,
                         767
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                }
-            ]
-        },
-        {
-            "timestamp": "00:03",
-            "objects": [
-                {
-                    "box_2d": [
-                        561,
-                        10,
-                        993,
-                        129
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        561,
-                        543,
-                        626,
-                        569
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        522,
-                        568,
-                        772,
-                        709
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        623,
-                        827,
-                        804,
-                        932
                     ],
                     "label": "car",
                     "confidence": 1.0
@@ -361,159 +556,9 @@
                 {
                     "box_2d": [
                         594,
-                        711,
-                        727,
-                        773
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                }
-            ]
-        },
-        {
-            "timestamp": "00:04",
-            "objects": [
-                {
-                    "box_2d": [
-                        551,
-                        423,
-                        756,
-                        503
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        561,
-                        504,
-                        668,
-                        546
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        522,
-                        568,
-                        821,
-                        720
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        639,
-                        807,
-                        821,
-                        931
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        594,
                         768,
                         678,
                         829
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        623,
-                        315,
-                        785,
-                        350
-                    ],
-                    "label": "human",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        555,
-                        321,
-                        743,
-                        375
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        347,
-                        607,
-                        444,
-                        647
-                    ],
-                    "label": "traffic sign",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        467,
-                        621,
-                        538,
-                        641
-                    ],
-                    "label": "traffic light",
-                    "confidence": 1.0
-                }
-            ]
-        },
-        {
-            "timestamp": "00:05",
-            "objects": [
-                {
-                    "box_2d": [
-                        548,
-                        411,
-                        766,
-                        498
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        542,
-                        506,
-                        649,
-                        551
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        538,
-                        554,
-                        620,
-                        590
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        477,
-                        585,
-                        837,
-                        765
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        626,
-                        855,
-                        824,
-                        988
                     ],
                     "label": "car",
                     "confidence": 1.0
@@ -530,12 +575,92 @@
                 },
                 {
                     "box_2d": [
+                        551,
+                        799,
+                        879,
+                        990
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        574,
+                        850,
+                        902,
+                        990
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        574,
+                        949,
+                        837,
+                        990
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        633,
+                        791,
+                        814,
+                        913
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        594,
+                        711,
+                        727,
+                        773
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        605,
+                        317,
+                        800,
+                        351
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
                         464,
                         12,
                         915,
                         279
                     ],
                     "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        483,
+                        83,
+                        866,
+                        318
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        347,
+                        607,
+                        444,
+                        647
+                    ],
+                    "label": "traffic sign",
                     "confidence": 1.0
                 },
                 {
@@ -550,10 +675,60 @@
                 },
                 {
                     "box_2d": [
+                        198,
+                        685,
+                        315,
+                        732
+                    ],
+                    "label": "traffic sign",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        250,
+                        754,
+                        311,
+                        818
+                    ],
+                    "label": "traffic sign",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        467,
+                        621,
+                        538,
+                        641
+                    ],
+                    "label": "traffic light",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
                         396,
                         652,
                         493,
                         679
+                    ],
+                    "label": "traffic light",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        373,
+                        700,
+                        470,
+                        726
+                    ],
+                    "label": "traffic light",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        318,
+                        774,
+                        415,
+                        801
                     ],
                     "label": "traffic light",
                     "confidence": 1.0
@@ -577,91 +752,6 @@
                     ],
                     "label": "traffic light",
                     "confidence": 1.0
-                }
-            ]
-        },
-        {
-            "timestamp": "00:06",
-            "objects": [
-                {
-                    "box_2d": [
-                        551,
-                        393,
-                        795,
-                        495
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        519,
-                        513,
-                        636,
-                        569
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        529,
-                        568,
-                        610,
-                        605
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        477,
-                        599,
-                        876,
-                        799
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        551,
-                        799,
-                        879,
-                        990
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        483,
-                        83,
-                        866,
-                        318
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        198,
-                        685,
-                        315,
-                        732
-                    ],
-                    "label": "traffic sign",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        373,
-                        700,
-                        470,
-                        726
-                    ],
-                    "label": "traffic light",
-                    "confidence": 1.0
                 },
                 {
                     "box_2d": [
@@ -669,101 +759,6 @@
                         284,
                         405,
                         303
-                    ],
-                    "label": "traffic light",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        500,
-                        343,
-                        613,
-                        360
-                    ],
-                    "label": "human",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        217,
-                        260,
-                        292,
-                        295
-                    ],
-                    "label": "traffic sign",
-                    "confidence": 1.0
-                }
-            ]
-        },
-        {
-            "timestamp": "00:07",
-            "objects": [
-                {
-                    "box_2d": [
-                        496,
-                        378,
-                        795,
-                        499
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        499,
-                        513,
-                        616,
-                        574
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        512,
-                        577,
-                        594,
-                        621
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        457,
-                        594,
-                        856,
-                        820
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        574,
-                        850,
-                        902,
-                        990
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        250,
-                        754,
-                        311,
-                        818
-                    ],
-                    "label": "traffic sign",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        318,
-                        774,
-                        415,
-                        801
                     ],
                     "label": "traffic light",
                     "confidence": 1.0
@@ -780,12 +775,72 @@
                 },
                 {
                     "box_2d": [
+                        113,
+                        155,
+                        269,
+                        191
+                    ],
+                    "label": "traffic light",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        137,
+                        33,
+                        354,
+                        79
+                    ],
+                    "label": "traffic light",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        500,
+                        343,
+                        613,
+                        360
+                    ],
+                    "label": "human",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
                         477,
                         318,
                         607,
                         336
                     ],
                     "label": "human",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        444,
+                        275,
+                        610,
+                        298
+                    ],
+                    "label": "human",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        584,
+                        207,
+                        869,
+                        240
+                    ],
+                    "label": "human",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        217,
+                        260,
+                        292,
+                        295
+                    ],
+                    "label": "traffic sign",
                     "confidence": 1.0
                 },
                 {
@@ -807,71 +862,6 @@
                     ],
                     "label": "traffic light",
                     "confidence": 1.0
-                }
-            ]
-        },
-        {
-            "timestamp": "00:08",
-            "objects": [
-                {
-                    "box_2d": [
-                        431,
-                        377,
-                        736,
-                        501
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        474,
-                        524,
-                        590,
-                        585
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        383,
-                        599,
-                        756,
-                        815
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        574,
-                        949,
-                        837,
-                        990
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        113,
-                        155,
-                        269,
-                        191
-                    ],
-                    "label": "traffic light",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        444,
-                        275,
-                        610,
-                        298
-                    ],
-                    "label": "human",
-                    "confidence": 1.0
                 },
                 {
                     "box_2d": [
@@ -879,6 +869,16 @@
                         287,
                         331,
                         312
+                    ],
+                    "label": "traffic light",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        269,
+                        235,
+                        461,
+                        270
                     ],
                     "label": "traffic light",
                     "confidence": 1.0
@@ -898,104 +898,9 @@
                         428,
                         343,
                         590,
-                        377
+                        400
                     ],
                     "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        474,
-                        496,
-                        577,
-                        535
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                }
-            ]
-        },
-        {
-            "timestamp": "00:09",
-            "objects": [
-                {
-                    "box_2d": [
-                        590,
-                        378,
-                        895,
-                        510
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        636,
-                        540,
-                        753,
-                        601
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        522,
-                        600,
-                        876,
-                        808
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        633,
-                        791,
-                        814,
-                        913
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        123,
-                        27,
-                        341,
-                        73
-                    ],
-                    "label": "traffic light",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        584,
-                        207,
-                        869,
-                        240
-                    ],
-                    "label": "human",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        269,
-                        235,
-                        461,
-                        270
-                    ],
-                    "label": "traffic light",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        594,
-                        837,
-                        837,
-                        881
-                    ],
-                    "label": "human",
                     "confidence": 1.0
                 },
                 {
@@ -1026,6 +931,46 @@
                         292
                     ],
                     "label": "human",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        156,
+                        343,
+                        291,
+                        401
+                    ],
+                    "label": "traffic sign",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        567,
+                        390,
+                        661,
+                        423
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        510,
+                        376,
+                        594,
+                        416
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        520,
+                        497,
+                        587,
+                        518
+                    ],
+                    "label": "car",
                     "confidence": 1.0
                 }
             ]
@@ -1060,6 +1005,16 @@
                         392,
                         167,
                         769,
+                        340
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        308,
+                        9,
+                        908,
                         340
                     ],
                     "label": "car",
@@ -1124,21 +1079,6 @@
                     ],
                     "label": "traffic light",
                     "confidence": 1.0
-                }
-            ]
-        },
-        {
-            "timestamp": "00:01",
-            "objects": [
-                {
-                    "box_2d": [
-                        308,
-                        9,
-                        908,
-                        340
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
                 },
                 {
                     "box_2d": [
@@ -1149,12 +1089,7 @@
                     ],
                     "label": "traffic light",
                     "confidence": 1.0
-                }
-            ]
-        },
-        {
-            "timestamp": "00:02",
-            "objects": [
+                },
                 {
                     "box_2d": [
                         590,
@@ -1164,12 +1099,7 @@
                     ],
                     "label": "traffic light",
                     "confidence": 1.0
-                }
-            ]
-        },
-        {
-            "timestamp": "00:03",
-            "objects": [
+                },
                 {
                     "box_2d": [
                         568,
@@ -1179,18 +1109,63 @@
                     ],
                     "label": "traffic light",
                     "confidence": 1.0
-                }
-            ]
-        },
-        {
-            "timestamp": "00:04",
-            "objects": [
+                },
                 {
                     "box_2d": [
                         606,
                         600,
                         726,
                         692
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        591,
+                        545,
+                        729,
+                        672
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        588,
+                        511,
+                        726,
+                        638
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        573,
+                        511,
+                        765,
+                        648
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        609,
+                        568,
+                        715,
+                        648
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        603,
+                        551,
+                        709,
+                        631
                     ],
                     "label": "car",
                     "confidence": 1.0
@@ -1214,21 +1189,6 @@
                     ],
                     "label": "car",
                     "confidence": 1.0
-                }
-            ]
-        },
-        {
-            "timestamp": "00:05",
-            "objects": [
-                {
-                    "box_2d": [
-                        591,
-                        545,
-                        729,
-                        672
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
                 },
                 {
                     "box_2d": [
@@ -1242,31 +1202,6 @@
                 },
                 {
                     "box_2d": [
-                        361,
-                        56,
-                        500,
-                        82
-                    ],
-                    "label": "traffic light",
-                    "confidence": 1.0
-                }
-            ]
-        },
-        {
-            "timestamp": "00:06",
-            "objects": [
-                {
-                    "box_2d": [
-                        588,
-                        511,
-                        726,
-                        638
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
                         553,
                         9,
                         897,
@@ -1274,50 +1209,25 @@
                     ],
                     "label": "car",
                     "confidence": 1.0
-                }
-            ]
-        },
-        {
-            "timestamp": "00:07",
-            "objects": [
+                },
                 {
                     "box_2d": [
-                        573,
-                        511,
-                        765,
-                        648
+                        361,
+                        56,
+                        500,
+                        82
                     ],
-                    "label": "car",
+                    "label": "traffic light",
                     "confidence": 1.0
-                }
-            ]
-        },
-        {
-            "timestamp": "00:08",
-            "objects": [
+                },
                 {
                     "box_2d": [
-                        609,
-                        568,
-                        715,
-                        648
+                        358,
+                        51,
+                        510,
+                        82
                     ],
-                    "label": "car",
-                    "confidence": 1.0
-                }
-            ]
-        },
-        {
-            "timestamp": "00:09",
-            "objects": [
-                {
-                    "box_2d": [
-                        603,
-                        551,
-                        709,
-                        631
-                    ],
-                    "label": "car",
+                    "label": "traffic light",
                     "confidence": 1.0
                 },
                 {
@@ -1328,6 +1238,16 @@
                         263
                     ],
                     "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        187,
+                        542,
+                        325,
+                        565
+                    ],
+                    "label": "traffic light",
                     "confidence": 1.0
                 }
             ]
@@ -1349,45 +1269,100 @@
                 },
                 {
                     "box_2d": [
-                        329,
-                        882,
-                        871,
-                        990
+                        205,
+                        437,
+                        992,
+                        778
                     ],
                     "label": "car",
                     "confidence": 1.0
                 },
                 {
                     "box_2d": [
-                        305,
-                        824,
-                        417,
-                        870
+                        211,
+                        433,
+                        997,
+                        775
                     ],
-                    "label": "traffic sign",
+                    "label": "car",
                     "confidence": 1.0
                 },
                 {
                     "box_2d": [
-                        287,
-                        734,
-                        382,
-                        755
+                        222,
+                        424,
+                        986,
+                        764
                     ],
-                    "label": "traffic light",
+                    "label": "car",
                     "confidence": 1.0
-                }
-            ]
-        },
-        {
-            "timestamp": "00:01",
-            "objects": [
+                },
                 {
                     "box_2d": [
-                        205,
-                        437,
-                        992,
-                        778
+                        233,
+                        409,
+                        987,
+                        771
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        243,
+                        393,
+                        989,
+                        733
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        264,
+                        375,
+                        997,
+                        697
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        270,
+                        341,
+                        977,
+                        644
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        331,
+                        265,
+                        941,
+                        517
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        329,
+                        111,
+                        900,
+                        362
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        329,
+                        882,
+                        871,
+                        990
                     ],
                     "label": "car",
                     "confidence": 1.0
@@ -1404,100 +1379,10 @@
                 },
                 {
                     "box_2d": [
-                        284,
-                        837,
-                        396,
-                        886
-                    ],
-                    "label": "traffic sign",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        276,
-                        736,
-                        370,
-                        757
-                    ],
-                    "label": "traffic light",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        116,
-                        91,
-                        349,
-                        137
-                    ],
-                    "label": "traffic sign",
-                    "confidence": 1.0
-                }
-            ]
-        },
-        {
-            "timestamp": "00:02",
-            "objects": [
-                {
-                    "box_2d": [
-                        211,
-                        433,
-                        997,
-                        775
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
                         293,
                         777,
                         776,
                         990
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        279,
-                        872,
-                        390,
-                        922
-                    ],
-                    "label": "traffic sign",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        264,
-                        755,
-                        358,
-                        776
-                    ],
-                    "label": "traffic light",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        111,
-                        49,
-                        343,
-                        95
-                    ],
-                    "label": "traffic sign",
-                    "confidence": 1.0
-                }
-            ]
-        },
-        {
-            "timestamp": "00:03",
-            "objects": [
-                {
-                    "box_2d": [
-                        222,
-                        424,
-                        986,
-                        764
                     ],
                     "label": "car",
                     "confidence": 1.0
@@ -1514,90 +1399,10 @@
                 },
                 {
                     "box_2d": [
-                        240,
-                        913,
-                        385,
-                        975
-                    ],
-                    "label": "traffic sign",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        225,
-                        785,
-                        320,
-                        808
-                    ],
-                    "label": "traffic light",
-                    "confidence": 1.0
-                }
-            ]
-        },
-        {
-            "timestamp": "00:04",
-            "objects": [
-                {
-                    "box_2d": [
                         370,
                         743,
                         650,
                         854
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        196,
-                        821,
-                        290,
-                        844
-                    ],
-                    "label": "traffic light",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        125,
-                        681,
-                        243,
-                        707
-                    ],
-                    "label": "traffic light",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        164,
-                        477,
-                        258,
-                        504
-                    ],
-                    "label": "traffic light",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        122,
-                        583,
-                        237,
-                        686
-                    ],
-                    "label": "traffic sign",
-                    "confidence": 1.0
-                }
-            ]
-        },
-        {
-            "timestamp": "00:05",
-            "objects": [
-                {
-                    "box_2d": [
-                        243,
-                        393,
-                        989,
-                        733
                     ],
                     "label": "car",
                     "confidence": 1.0
@@ -1614,10 +1419,160 @@
                 },
                 {
                     "box_2d": [
+                        158,
+                        819,
+                        956,
+                        990
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        131,
+                        692,
+                        930,
+                        991
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        273,
+                        555,
+                        833,
+                        953
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        267,
+                        416,
+                        771,
+                        753
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        305,
+                        824,
+                        417,
+                        870
+                    ],
+                    "label": "traffic sign",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        240,
+                        913,
+                        385,
+                        975
+                    ],
+                    "label": "traffic sign",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        287,
+                        734,
+                        382,
+                        755
+                    ],
+                    "label": "traffic light",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        276,
+                        736,
+                        370,
+                        757
+                    ],
+                    "label": "traffic light",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        264,
+                        755,
+                        358,
+                        776
+                    ],
+                    "label": "traffic light",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        225,
+                        785,
+                        320,
+                        808
+                    ],
+                    "label": "traffic light",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        196,
+                        821,
+                        290,
+                        844
+                    ],
+                    "label": "traffic light",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
                         187,
                         848,
                         281,
                         871
+                    ],
+                    "label": "traffic light",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        119,
+                        887,
+                        228,
+                        911
+                    ],
+                    "label": "traffic light",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        116,
+                        91,
+                        349,
+                        137
+                    ],
+                    "label": "traffic sign",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        111,
+                        49,
+                        343,
+                        95
+                    ],
+                    "label": "traffic sign",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        125,
+                        681,
+                        243,
+                        707
                     ],
                     "label": "traffic light",
                     "confidence": 1.0
@@ -1634,65 +1589,30 @@
                 },
                 {
                     "box_2d": [
-                        155,
-                        462,
-                        249,
-                        488
-                    ],
-                    "label": "traffic light",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        152,
-                        589,
-                        267,
-                        692
-                    ],
-                    "label": "traffic sign",
-                    "confidence": 1.0
-                }
-            ]
-        },
-        {
-            "timestamp": "00:06",
-            "objects": [
-                {
-                    "box_2d": [
-                        264,
-                        375,
-                        997,
-                        697
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        158,
-                        819,
-                        956,
-                        990
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        119,
-                        887,
-                        228,
-                        911
-                    ],
-                    "label": "traffic light",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
                         10,
                         728,
                         164,
                         755
+                    ],
+                    "label": "traffic light",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        164,
+                        477,
+                        258,
+                        504
+                    ],
+                    "label": "traffic light",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        155,
+                        462,
+                        249,
+                        488
                     ],
                     "label": "traffic light",
                     "confidence": 1.0
@@ -1709,10 +1629,90 @@
                 },
                 {
                     "box_2d": [
+                        52,
+                        445,
+                        193,
+                        484
+                    ],
+                    "label": "traffic light",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        2,
+                        456,
+                        184,
+                        502
+                    ],
+                    "label": "traffic light",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        2,
+                        571,
+                        78,
+                        610
+                    ],
+                    "label": "traffic light",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        122,
+                        583,
+                        237,
+                        686
+                    ],
+                    "label": "traffic sign",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        152,
+                        589,
+                        267,
+                        692
+                    ],
+                    "label": "traffic sign",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
                         116,
                         589,
                         267,
                         698
+                    ],
+                    "label": "traffic sign",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        96,
+                        595,
+                        246,
+                        704
+                    ],
+                    "label": "traffic sign",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        87,
+                        611,
+                        243,
+                        744
+                    ],
+                    "label": "traffic sign",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        22,
+                        717,
+                        193,
+                        876
                     ],
                     "label": "traffic sign",
                     "confidence": 1.0
@@ -1729,67 +1729,22 @@
                 },
                 {
                     "box_2d": [
+                        441,
+                        264,
+                        673,
+                        380
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
                         217,
                         720,
                         343,
                         758
                     ],
                     "label": "traffic sign",
-                    "confidence": 1.0
-                }
-            ]
-        },
-        {
-            "timestamp": "00:07",
-            "objects": [
-                {
-                    "box_2d": [
-                        270,
-                        341,
-                        977,
-                        644
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        131,
-                        697,
-                        930,
-                        991
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        52,
-                        445,
-                        193,
-                        484
-                    ],
-                    "label": "traffic light",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        96,
-                        595,
-                        246,
-                        704
-                    ],
-                    "label": "traffic sign",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        441,
-                        264,
-                        653,
-                        380
-                    ],
-                    "label": "car",
                     "confidence": 1.0
                 },
                 {
@@ -1811,51 +1766,6 @@
                     ],
                     "label": "car",
                     "confidence": 1.0
-                }
-            ]
-        },
-        {
-            "timestamp": "00:08",
-            "objects": [
-                {
-                    "box_2d": [
-                        331,
-                        265,
-                        941,
-                        517
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        273,
-                        555,
-                        833,
-                        953
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        2,
-                        456,
-                        184,
-                        502
-                    ],
-                    "label": "traffic light",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        87,
-                        611,
-                        243,
-                        744
-                    ],
-                    "label": "traffic sign",
-                    "confidence": 1.0
                 },
                 {
                     "box_2d": [
@@ -1869,67 +1779,22 @@
                 },
                 {
                     "box_2d": [
-                        281,
-                        479,
-                        426,
-                        515
-                    ],
-                    "label": "traffic light",
-                    "confidence": 1.0
-                }
-            ]
-        },
-        {
-            "timestamp": "00:09",
-            "objects": [
-                {
-                    "box_2d": [
-                        329,
-                        111,
-                        900,
-                        362
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        267,
-                        416,
-                        771,
-                        753
-                    ],
-                    "label": "car",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        2,
-                        571,
-                        78,
-                        610
-                    ],
-                    "label": "traffic light",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
-                        22,
-                        717,
-                        193,
-                        876
-                    ],
-                    "label": "traffic sign",
-                    "confidence": 1.0
-                },
-                {
-                    "box_2d": [
                         429,
                         74,
                         606,
                         188
                     ],
                     "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        281,
+                        479,
+                        426,
+                        515
+                    ],
+                    "label": "traffic light",
                     "confidence": 1.0
                 },
                 {
@@ -1950,6 +1815,66 @@
                         960
                     ],
                     "label": "traffic sign",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        284,
+                        874,
+                        368,
+                        897
+                    ],
+                    "label": "traffic light",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        294,
+                        855,
+                        368,
+                        875
+                    ],
+                    "label": "traffic light",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        469,
+                        206,
+                        594,
+                        279
+                    ],
+                    "label": "car",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        207,
+                        153,
+                        335,
+                        201
+                    ],
+                    "label": "traffic light",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        281,
+                        302,
+                        375,
+                        328
+                    ],
+                    "label": "traffic light",
+                    "confidence": 1.0
+                },
+                {
+                    "box_2d": [
+                        267,
+                        240,
+                        362,
+                        266
+                    ],
+                    "label": "traffic light",
                     "confidence": 1.0
                 }
             ]
