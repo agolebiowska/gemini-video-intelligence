@@ -1,0 +1,29 @@
+project_id: "prj-test-389806"
+location: "us-central1"
+bucket: "driving-videos-kaggle"
+model_id: "gemini-2.5-pro"
+dataset_id: "video_intelligence"
+table_id: "video_analysis_results"
+
+input_path: "input"
+preprocessed_path: "preprocessed"
+output_path: "processed"
+objects_to_detect:
+  - "car"
+  - "human"
+  - "traffic light"
+  - "traffic sign"
+detection_prompt: "frame_2d_bounding"
+max_items_to_detect: 15
+debug_interval: 1
+sequences_prompt: "sequence_extraction"
+
+paths:
+  tmp: "tmp/videos"
+  metadata: "results/metadata.csv"
+  preprocessing_config: "results/preprocessing_config.csv"
+  ground_truth: "results/ground_truth_converted.json"
+  results: "results/results.json"
+  sequences: "results/sequences.json"
+  detection_eval_results: "results/detection_evaluation_results.json"
+  sequence_eval_results: "results/sequence_evaluation_results.json"

@@ -1,0 +1,28 @@
+{
+  "summary_metrics": {
+    "row_count": 3,
+    "video_description_quality/mean": 2.0,
+    "video_description_quality/std": 0.0
+  },
+  "metrics_table": [
+    {
+      "video_id": "preprocessed/0000f77c-6257be58/0000f77c-6257be58.mp4",
+      "response": "{\"objects\": [\"car\", \"traffic light\", \"traffic sign\"], \"sequences\": [{\"start_time\": \"00:00\", \"end_time\": \"00:03\", \"description\": \"A view from a vehicle shows a car stopped in traffic. A traffic sign and a traffic light are also visible in the scene.\"}, {\"start_time\": \"00:04\", \"end_time\": \"00:06\", \"description\": \"The car in front begins to move forward as the traffic light changes. Another car is briefly visible on the left.\"}, {\"start_time\": \"00:07\", \"end_time\": \"00:09\", \"description\": \"A second car appears on the right and moves past the first car. Both cars continue to drive forward, with traffic lights and signs visible in the background.\"}]}",
+      "video_description_quality/explanation": "The response accurately describes the detected objects (car, traffic light, traffic sign) and creates coherent sequences based on their movements and changes, with clear timestamps.",
+      "video_description_quality/score": 2.0
+    },
+    {
+      "video_id": "preprocessed/00225f53-67614580/00225f53-67614580.mp4",
+      "response": "{\"objects\": [\"car\", \"human\", \"traffic light\", \"traffic sign\"], \"sequences\": [{\"start_time\": \"00:00\", \"end_time\": \"00:02\", \"description\": \"A point-of-view shot from a car shows several other cars on a street. A traffic sign is visible, and a human is detected on the sidewalk.\"}, {\"start_time\": \"00:03\", \"end_time\": \"00:05\", \"description\": \"The car continues driving forward, with other cars visible ahead. A traffic light and traffic sign for an upcoming intersection are detected.\"}, {\"start_time\": \"00:06\", \"end_time\": \"00:09\", \"description\": \"The car enters an intersection, following other cars. A green traffic light is visible, and humans are detected on the sidewalk at the corner.\"}]}",
+      "video_description_quality/explanation": "The response accurately describes the detected objects and creates coherent sequences based on meaningful transitions, demonstrating a strong understanding of the data.",
+      "video_description_quality/score": 2.0
+    },
+    {
+      "video_id": "preprocessed/00091078-7cff8ea6/00091078-7cff8ea6.mp4",
+      "response": "{\"objects\": [\"car\", \"human\", \"traffic light\", \"traffic sign\"], \"sequences\": [{\"start_time\": \"00:00\", \"end_time\": \"00:00\", \"description\": \"The video starts showing a car, a traffic sign, a traffic light, and a human, capturing a typical city traffic scene.\"}, {\"start_time\": \"00:01\", \"end_time\": \"00:08\", \"description\": \"The human is no longer detected, and the scene focuses on the car waiting at the traffic light, with other cars passing in the background. A traffic sign is also visible.\"}, {\"start_time\": \"00:09\", \"end_time\": \"00:09\", \"description\": \"A human is detected again in the frame, alongside the car, traffic sign, and traffic light, as the scene remains stationary.\"}]}",
+      "video_description_quality/explanation": "The response accurately describes the detected objects and creates coherent sequences based on their presence and activities, demonstrating a strong understanding of the provided data.",
+      "video_description_quality/score": 2.0
+    }
+  ],
+  "experiment_name": "unknown"
+}

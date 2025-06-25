@@ -1,0 +1,53 @@
+{
+  "preprocessed/0000f77c-6257be58/0000f77c-6257be58.mp4": [
+    {
+      "description": "A shot from a moving vehicle shows a car stopped in traffic. A traffic light and a traffic sign are also visible.",
+      "start_time": "00:00",
+      "end_time": "00:03"
+    },
+    {
+      "description": "The car in front begins to move forward as the traffic light changes. Another car is briefly visible on the left.",
+      "start_time": "00:04",
+      "end_time": "00:06"
+    },
+    {
+      "description": "A second car appears on the right and drives past the first car. The traffic light and traffic sign remain in view.",
+      "start_time": "00:07",
+      "end_time": "00:09"
+    }
+  ],
+  "preprocessed/00091078-7cff8ea6/00091078-7cff8ea6.mp4": [
+    {
+      "description": "The video starts with a view of a car stopped at a traffic light. A traffic sign is visible, and a human is also detected in the scene.",
+      "start_time": "00:00",
+      "end_time": "00:00"
+    },
+    {
+      "description": "The scene remains focused on the car waiting at the traffic light, with the traffic sign still in view. The human is no longer detected during this period.",
+      "start_time": "00:01",
+      "end_time": "00:08"
+    },
+    {
+      "description": "The view of the car at the traffic light continues, and a human is detected in the frame again.",
+      "start_time": "00:09",
+      "end_time": "00:09"
+    }
+  ],
+  "preprocessed/00225f53-67614580/00225f53-67614580.mp4": [
+    {
+      "description": "A view from a car driving on a city street, with other cars, traffic signs, and a traffic light visible. A human is briefly detected on the side of the road.",
+      "start_time": "00:00",
+      "end_time": "00:04"
+    },
+    {
+      "description": "The car approaches an intersection where a green traffic light, other cars, and a human on the sidewalk are detected.",
+      "start_time": "00:05",
+      "end_time": "00:06"
+    },
+    {
+      "description": "The car proceeds through the intersection, with the green traffic light, other cars, and humans on the sidewalk remaining in view.",
+      "start_time": "00:07",
+      "end_time": "00:09"
+    }
+  ]
+}
